@@ -1,0 +1,38 @@
+Jesica Singh
+Uttar Pradesh, India
+Email: 2400031854cse1@gmail.com
+GitHub: https://github.com/js4994
+LinkedIn: https://www.linkedin.com/in/jesica-singh-67317435a
+
+Education
+- Koneru Lakshmaiah Education Foundation (KL University)
+  B.Tech in Computer Science and Engineering
+  2024 - 2028 | CGPA: 9.19/10
+- Army Public School, Jhansi (CBSE)
+  Class XII: 78%
+  Class X: 88%
+
+Technical Skills
+- Languages: C, Java, C++, JavaScript
+- Web Technologies: HTML, CSS, JavaScript
+- Databases: MySQL
+- Core CS: DSA, OOP, DBMS, Operating Systems, Computer Networks
+- AI/ML: ML fundamentals, Probability & Statistics, Deep Learning basics
+- Tools: Git, GitHub, VS Code, Eclipse, STS, AWS Console
+
+Projects
+- AI-Powered Career Assessment Tool
+  Full-stack platform for student learning, quizzes, and career assessment with analytics.
+- ERP Portal - Student Management System
+  Student management application with CRUD functionality using HTML, CSS, JavaScript, and MySQL.
+
+Certifications
+- AWS Academy Cloud Foundations
+- ERA Course
+- ERA Internship Program
+
+Achievements
+- CGPA of 9.19/10 in B.Tech CSE
+- Solved 400+ coding problems on LeetCode and CodeChef
+- Participated in Smart India Hackathon internal round
+- Team Lead for ERP Portal project
